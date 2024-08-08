@@ -4,7 +4,7 @@ import csv
 import pprint
 import time
 
-#run script with file pat as first arg, file name as second
+#run script with file path as first arg, file name as second
 x = sys.argv[1]
 y = sys.argv[2]
 print(x, y, sep="\n")
