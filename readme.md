@@ -19,3 +19,7 @@ You will also need the *Selenium* module for Phyhon (see requirements.txt)
 - When the current block of transfers is finished, script will output a total amount
 - Please verify this total, confirm payment, and click "new transfer"
 - Hit enter on your terminal. The script continues.
+
+## ToDo
+- Create log export. This will help in the instance of Commerzbank crashing / unexpected behaviour
+- On completion of final transaction copy /paste, if final chunk is <15, do not click "add transaction"
